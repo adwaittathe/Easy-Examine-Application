@@ -1,7 +1,7 @@
 # Easy-Examine-Application
 
 Imagine a case where students are expected to create a poster and present it during a poster session. During the poster session there are examiners that will be required to visit each poster and grade the poster based on a simple list of questions.\
-The application is used by examiner to grade the performnace of students based on the questions displayed on the application. Examiner scan the QR code on each table to identify the team and then grade them accordingly.
+The application is used by examiner to grade the performance of students based on the questions displayed on the application. Examiner scan the QR code on each table to identify the team and then grade them accordingly.
 
 The application uses the REST API can be used to easily authenticate users for mobile applications.
 

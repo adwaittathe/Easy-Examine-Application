@@ -1,5 +1,6 @@
-# Scoping-Project
+# Easy-Examine-Application
 
+Imagine a case where students are expected to create a poster and present it during a poster session. During the poster session there are examiners that will be required to visit each poster and grade the poster based on a simple list of questions.\
 API can be used to easily authenticate users for mobile applications.The server is hosted on AWS EC2.
 
 [Click here](https://www.youtube.com/watch?v=lb_IaRQpGNo) to watch the demonstration of the application.

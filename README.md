@@ -2,6 +2,8 @@
 
 API can be used to easily authenticate users for mobile applications.The server is hosted on AWS EC2.
 
+[Click here](https://www.youtube.com/watch?v=lb_IaRQpGNo) to watch the demonstration of the application.
+
 ## Table of content
 * [Get Started](#get-started)
     * [Login](#login)
